@@ -1,3 +1,5 @@
+**NOTE: This repository is no longer maintained, and the new home for this code is https://github.com/posit-dev/file-navigator-extension.**
+
 # File Navigator
 
 A VS Code / Positron extension that provides a directory browser in a sidebar webview, drawn with [`@pierre/trees`](https://www.npmjs.com/package/@pierre/trees). It has two view modes, toggled from the toolbar: a flat list of one directory, or a tree rooted at the current directory. It can browse anywhere on the filesystem, not just the workspace.
